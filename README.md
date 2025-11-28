@@ -1,5 +1,6 @@
 # Taller-AspNet
 conocimientos obtenido durante la tutela de Victor vega
+
 Una aplicación web completa desarrollada con ASP.NET Core MVC para la gestión personal de tareas con autenticación de usuarios y funcionalidades CRUD completas.
 
  Características Principales
@@ -9,15 +10,15 @@ Una aplicación web completa desarrollada con ASP.NET Core MVC para la gestión 
 
  Operaciones CRUD Completas:
 
-Crear nuevas tareas
+- Crear nuevas tareas
 
-Ver lista de tareas
+- Ver lista de tareas
 
-Actualizar tareas existentes
+- Actualizar tareas existentes
 
-Eliminar tareas
+- Eliminar tareas
 
- Sistema de Prioridades: Clasificación en Alta, Media y Baja prioridad
+ # Sistema de Prioridades: Clasificación en Alta, Media y Baja prioridad
 
  Filtrado Avanzado:
 
