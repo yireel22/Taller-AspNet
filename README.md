@@ -1,4 +1,4 @@
-# TodoApp - Sistema de Gestión de Tareas
+# Sistema de Gestión de Tareas
 
 Una aplicación web completa desarrollada con **ASP.NET Core MVC** para la gestión personal de tareas con autenticación de usuarios y funcionalidades CRUD completas.
 
@@ -29,23 +29,18 @@ Una aplicación web completa desarrollada con **ASP.NET Core MVC** para la gesti
 
 ## 📦 Instalación y Ejecución
 
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/todoapp.git
-   cd todoapp
-   ```
 
-2. **Restaurar dependencias**
+1. **Restaurar dependencias**
    ```bash
    dotnet restore
    ```
 
-3. **Ejecutar la aplicación**
+2. **Ejecutar la aplicación**
    ```bash
    dotnet run
    ```
 
-4. **Abrir en el navegador**
+3. **Abrir en el navegador**
    ```
    https://localhost:7000
    ```
@@ -111,10 +106,5 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abrir un Pull Request
 
-## 📄 Licencia
 
-Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
----
-
-**Desarrollado con ASP.NET Core MVC** - Sistema completo de gestión de tareas personales.
